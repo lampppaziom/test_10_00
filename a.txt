@@ -1,3 +1,4 @@
 <?php
 echo "some value<br>" + 2* 12;
 ?>
+ala ma rybki
