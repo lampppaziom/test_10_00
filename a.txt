@@ -2,3 +2,4 @@
 echo "some value<br>" + 2* 12;
 ?>
 new line
+ala ma kota i rybki
